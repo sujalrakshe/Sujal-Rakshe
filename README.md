@@ -1,4 +1,7 @@
 # Sujal-Rakshe
-This Is My First Git Repository
+
+
+This Is My First Git Repository.
 <br>
-Author - Sujal Rakshe
+Author - sujal  rakshe (from electrical branch) in pandav college
+
